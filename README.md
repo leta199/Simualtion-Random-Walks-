@@ -46,7 +46,7 @@ If the sum for each list generated is between $4600 and $6000 store the number 1
 We then replicate this simulation 5000 times and get the mean of the outcome stored in `mean4to6` using `mean()` and `replicate()`
 
  ## PROJECT STRUCTURE      
-|[Simulation- Conditional Probability](https://github.com/leta199/Simulation-Conditional-Probability)  
+|[Simulation- Random Walks]()  
 |├── [Conditional probability](https://github.com/leta199/Simulation-Conditional-Probability/blob/main/Conditional%20probability.r)   
 |├── [Beforetest_conditional_function](https://github.com/leta199/Simulation-Conditional-Probability/blob/main/Beforetests_conditional_function.r)  
 |├── [README.md](https://github.com/leta199/Simulation-Conditional-Probability/blob/main/README.md)    
