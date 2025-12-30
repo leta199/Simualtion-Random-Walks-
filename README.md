@@ -33,12 +33,16 @@ Creating a random walk by sampling between gains of $-1 and $1 with the given pr
 Plotting the randomwalk via "distance" from our start point of $0  
 
 
-## FUNCTION EXPLANATION
-Creation of funtion named `sim4ot6`  
+## FUNCTION EXPLANATION  
+In ann effort to identify how the casino will perfrom we will simulate the probability of the casino generating a specfic interval of money for each month. In this case, we want to know what the probability of the casino earning between $4600 and $6000.
 
-This 
+`sim4ot6` - a function that simulates the probability of the casino generating between $4600 and $6000 
 
+This function: 
+has a list `list4to6` - stores an list of 100,000 values generated from the proabilities given above to earn -$1 and $1  
+If the sum for each list generated is between $4600 and $6000 store the number 1 and 0 if not.
 
+We then replicate this simulation 5000 times and get the mean of the outcome stored in `mean4to6` using `mean()` and `replicate()`
 
  ## PROJECT STRUCTURE      
 |[Simulation- Conditional Probability](https://github.com/leta199/Simulation-Conditional-Probability)  
