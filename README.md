@@ -1,5 +1,5 @@
 # Simulation - Random Walks
-A simulation of "Gamblers Ruin"- this is a classic statistics and modelling problem to peer into the expected amount of money won or lost based on probabilities of winning or losing a sepcfici amount of moeny through betting. This simulation utilises a constant probablity of success to simulate the our random walk with a lose or gain of $1/ bet. 
+A simulation of "Gamblers Ruin"- this is a classic statistics and modelling problem to peer into the expected amount of money won or lost based on probabilities of winning or losing a sepcific amount of money through betting. This simulation utilises a constant probablity of success to simulate a random walk with a lose or gain of $1/ bet. 
 
 We will look into a casino that has 100,000 bets a month and identify the amounts of money we expect from these bets in a month. Each bet represents a loss or gain of $1, therefore we will investigate aspects of this month for the casino such as probabilites of outcomes and amount the casino makes. 
 
