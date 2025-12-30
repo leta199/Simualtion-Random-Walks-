@@ -46,7 +46,7 @@ If the sum for each list generated is between $4600 and $6000 store the number 1
 We then replicate this simulation 5000 times and get the mean of the outcome stored in `mean4to6` using `mean()` and `replicate()`
 
  ## PROJECT STRUCTURE      
-|[Simulation- Random Walks]()  
+|[Simulation- Random Walks](https://github.com/leta199/Simulation-Random-Walks)  
 |├── [Conditional probability](https://github.com/leta199/Simulation-Conditional-Probability/blob/main/Conditional%20probability.r)   
 |├── [Beforetest_conditional_function](https://github.com/leta199/Simulation-Conditional-Probability/blob/main/Beforetests_conditional_function.r)  
 |├── [README.md](https://github.com/leta199/Simulation-Conditional-Probability/blob/main/README.md)    
@@ -54,15 +54,6 @@ We then replicate this simulation 5000 times and get the mean of the outcome sto
 |├── [conditional_sum_analytical_tex](https://github.com/leta199/Simulation-Conditional-Probability/blob/main/conditional_sum.tex)  
 |└──[conditonal_sum_pdf_analytical](https://github.com/leta199/Simulation-Conditional-Probability/blob/main/conditional_sum_analytical_pdf.pdf)
   
-## ACKNOWLEDGEMENTS
-
-Based on an example from "Probability with Applications and R" by Dr. Amy S. Wagaman and Dr. Robert P. Dobrow, Chapter 2
-
-## WHAT DOES THE FUTURE HOLD?  
-
- 1) Introduce a function called conditional_sum_prob() or the like to calculate the conditional probability of entered arguments and for reproducibility  ✅
- 2) Add tests such as edge case testing, reproducibility, accuracy vs theoretical probability and distribution tests ✅
- 3) Examples of function use cases through the README ✅  
 
 ## AUTHORS   
 [leta199](https://github.com/leta199)  
