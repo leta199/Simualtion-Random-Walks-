@@ -32,7 +32,7 @@ Defining the total number of bets made per month (100,000)
 Creating a random walk by sampling between gains of $-1 and $1 with the given probabilities and number of bets per month  
 Plotting the randomwalk via "distance" from our start point of $0  
 
-
+<img width="1183" height="825" alt="Image" src="https://github.com/user-attachments/assets/56b7f5bc-90ec-4551-be9e-b8ba0fb1031c" />
 
 ## FUNCTION EXPLANATION  
 In ann effort to identify how the casino will perfrom we will simulate the probability of the casino generating a specfic interval of money for each month. In this case, we want to know what the probability of the casino earning between $4600 and $6000.
