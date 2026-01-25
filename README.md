@@ -33,7 +33,7 @@ Defined `totalgain` as a test run of the  amount for 1 simulation run.
 <img width="1183" height="825" alt="Image" src="https://github.com/user-attachments/assets/56b7f5bc-90ec-4551-be9e-b8ba0fb1031c" />
 
 ## FUNCTION EXPLANATION  
-In an effort to identify how the casino will perfrom we will simulate the probability of the casino generating a specfic interval of money for each month. In this case, we want to know what the probability of the casino earning between $4600 and $6000.
+In an effort to identify how the casino will perform we will simulate the probability of the casino generating a specfic interval of money for each month. In this case, we want to know what the probability of the casino earning between $4600 and $6000.
 
 `sim4ot6` - a function that simulates the probability of the casino generating between $4600 and $6000. 
 
