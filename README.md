@@ -8,7 +8,7 @@ This project will cover:
 - Setting up simulation parameters (number of bets, number of repetitions).
 - Simulating an amount won after 100,000  bets. 
 - Simulating "Gamblers Ruin" using random walks.
-- Graphing the random walk and finding the probability of making between $4600 and $6000 from 100,000 bets in a casino.
+- Graphing the random walk and finding the probability of making between $4600 and $6000 from 100,000 bets in a casino. 
  
 ## HOW IT'S MADE 
 Languages used: R (version 4.5.1)    
