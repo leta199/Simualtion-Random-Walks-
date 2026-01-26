@@ -41,7 +41,7 @@ This function:
 Has a list `list4to6` - stores an list of 100,000 values generated from the proabilities given above to earn -$1 and $1.  
 If the sum for each list generated is between $4600 and $6000 store the number 1 and 0 if not.
 
-We then replicate this simulation 5000 times and get the mean of the outcome stored in `mean4to6` using `mean()` and `replicate()`.
+We then replicate this simulation 5000 times and get the mean of the outcome stored in `mean4to6` using `mean()` and `replicate()`.  
 Thus we can see that the probability of the casino making between $4600 and $600 dollars is 99.04% 
 
 
