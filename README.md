@@ -21,7 +21,7 @@ Environement: RStudio
 ## METHODS AND TECHNIQUES  
 **Practice simulation**     
 Setting up the number of bets per month (100,000) as n.  
-Setting up the probability of success and failure for each bet at 20/38 and 18/38.
+Setting up the probability of success and failure for each bet at 20/38 and 18/38.  
 Defined `totalgain` as a test run of the  amount for 1 simulation run. 
 
 **Simulation loop**  
